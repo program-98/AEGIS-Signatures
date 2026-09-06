@@ -1,0 +1,20 @@
+[
+  {
+    "SHA256": "d9fa3915aa8410fbf43510c576052602dd4646b6b9c5ff694d11426a7aec5c2e",
+    "NombreDeteccion": "AEGIS Test Threat",
+    "Descripcion": "Archivo de prueba controlado para validar el motor de detección AEGIS.",
+    "Nivel": 2,
+    "Familia": "AEGIS-TEST",
+    "Fuente": "AEGIS Test Signature",
+    "FechaAlta": "2026-09-06T00:00:00"
+  },
+  {
+    "SHA256": "d53823f8cb7a9acdef8df0b58064b43fe6c9a893ce698905d9ff5bd9207827b8",
+    "NombreDeteccion": "AEGIS Test Executable",
+    "Descripcion": "Ejecutable de prueba controlado para validar la coincidencia SHA-256 y el pipeline de análisis AEGIS.",
+    "Nivel": 1,
+    "Familia": "AEGIS-TEST-PE",
+    "Fuente": "AEGIS Test Signature",
+    "FechaAlta": "2026-09-06T00:00:00"
+  }
+]
