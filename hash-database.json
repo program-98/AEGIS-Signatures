@@ -2,7 +2,7 @@
   {
     "SHA256": "abb0e54027d3dfd4fa0274505f0faf12083d6a94ffb95a534056a9577f9ff252",
     "NombreDeteccion": "LummaStealer",
-    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "LummaStealer",
     "Fuente": "MalwareBazaar",
@@ -11,7 +11,7 @@
   {
     "SHA256": "16e432c3b5c0fab127ca33d87dd6a28489d3860b95045a5d0d2e42dfb6ce8c14",
     "NombreDeteccion": "LummaStealer",
-    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "LummaStealer",
     "Fuente": "MalwareBazaar",
@@ -20,7 +20,7 @@
   {
     "SHA256": "ed571035b1c4cf8101e899022e35ded1ef5b84459d1f3c2be7f5d37a7b3781e3",
     "NombreDeteccion": "RedLineStealer",
-    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como RedLineStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como RedLineStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "RedLineStealer",
     "Fuente": "MalwareBazaar",
@@ -29,7 +29,7 @@
   {
     "SHA256": "00d923f969b5ac9c626e872c1d1434dba82747fdc59839e8fb90b8bf2e3bccdc",
     "NombreDeteccion": "RedLineStealer",
-    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como RedLineStealer.",
+    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como RedLineStealer.",
     "Nivel": 2,
     "Familia": "RedLineStealer",
     "Fuente": "MalwareBazaar",
@@ -38,7 +38,7 @@
   {
     "SHA256": "d9fa3915aa8410fbf43510c576052602dd4646b6b9c5ff694d11426a7aec5c2e",
     "NombreDeteccion": "AEGIS Test Threat",
-    "Descripcion": "Archivo de prueba controlado para validar el motor de detección AEGIS.",
+    "Descripcion": "Archivo de prueba controlado para validar el motor de detecci\u00F3n AEGIS.",
     "Nivel": 2,
     "Familia": "AEGIS-TEST",
     "Fuente": "AEGIS Test Signature",
@@ -52,5 +52,14 @@
     "Familia": "AEGIS-TEST-PE",
     "Fuente": "AEGIS Test Signature",
     "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf6515d0f",
+    "NombreDeteccion": "EICAR-Test-File",
+    "Descripcion": "Archivo est\u00E1ndar de prueba antivirus EICAR. No es malware real.",
+    "Nivel": 2,
+    "Familia": "EICAR",
+    "Fuente": "EICAR Test Signature",
+    "FechaAlta": "2026-09-06T03:06:39.6098572Z"
   }
 ]
