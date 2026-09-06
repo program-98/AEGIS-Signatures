@@ -33,7 +33,7 @@
     "Nivel": 2,
     "Familia": "RedLineStealer",
     "Fuente": "MalwareBazaar",
-    "FechaAlta": "2026-09-05T00:00:00Z"
+    "FechaAlta": "2026-09-06T00:00:00Z"
   },
   {
     "SHA256": "d9fa3915aa8410fbf43510c576052602dd4646b6b9c5ff694d11426a7aec5c2e",
@@ -51,6 +51,6 @@
     "Nivel": 1,
     "Familia": "AEGIS-TEST-PE",
     "Fuente": "AEGIS Test Signature",
-    "FechaAlta": "2026-09-05T00:00:00Z"
+    "FechaAlta": "2026-09-06T00:00:00Z"
   }
 ]
