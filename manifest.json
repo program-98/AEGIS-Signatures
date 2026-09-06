@@ -1,7 +1,7 @@
 {
-  "Version": "1.1.0",
-  "PublishedUtc": "2026-09-06T00:00:00Z",
+  "Version": "1.2.0",
+  "PublishedUtc": "2026-09-06T03:10:24Z",
   "DatabaseUrl": "https://raw.githubusercontent.com/program-98/AEGIS-Signatures/main/hash-database.json",
-  "SHA256": "9AA4044457848CAA80A382D49EC6D230C5EDE105CB909838457BC3B4E258CDE8",
-  "SignatureCount": 6
+  "SHA256": "6f89035e64e4271ad80e22a9d541793eb5c157ed130a9a7b300c6a66a6d636b6",
+  "SignatureCount": 7
 }
