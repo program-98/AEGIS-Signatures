@@ -2,7 +2,7 @@
   {
     "SHA256": "abb0e54027d3dfd4fa0274505f0faf12083d6a94ffb95a534056a9577f9ff252",
     "NombreDeteccion": "LummaStealer",
-    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "LummaStealer",
     "Fuente": "MalwareBazaar",
@@ -11,7 +11,7 @@
   {
     "SHA256": "16e432c3b5c0fab127ca33d87dd6a28489d3860b95045a5d0d2e42dfb6ce8c14",
     "NombreDeteccion": "LummaStealer",
-    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como LummaStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "LummaStealer",
     "Fuente": "MalwareBazaar",
@@ -20,7 +20,7 @@
   {
     "SHA256": "ed571035b1c4cf8101e899022e35ded1ef5b84459d1f3c2be7f5d37a7b3781e3",
     "NombreDeteccion": "RedLineStealer",
-    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como RedLineStealer en MalwareBazaar.",
+    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como RedLineStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "RedLineStealer",
     "Fuente": "MalwareBazaar",
@@ -29,16 +29,17 @@
   {
     "SHA256": "00d923f969b5ac9c626e872c1d1434dba82747fdc59839e8fb90b8bf2e3bccdc",
     "NombreDeteccion": "RedLineStealer",
-    "Descripcion": "IOC SHA-256 p\u00FAblico asociado a una muestra identificada como RedLineStealer.",
+    "Descripcion": "IOC SHA-256 público asociado a una muestra identificada como RedLineStealer en MalwareBazaar.",
     "Nivel": 2,
     "Familia": "RedLineStealer",
     "Fuente": "MalwareBazaar",
     "FechaAlta": "2026-09-06T00:00:00Z"
   },
+
   {
     "SHA256": "d9fa3915aa8410fbf43510c576052602dd4646b6b9c5ff694d11426a7aec5c2e",
     "NombreDeteccion": "AEGIS Test Threat",
-    "Descripcion": "Archivo de prueba controlado para validar el motor de detecci\u00F3n AEGIS.",
+    "Descripcion": "Archivo de prueba controlado para validar el motor de detección AEGIS.",
     "Nivel": 2,
     "Familia": "AEGIS-TEST",
     "Fuente": "AEGIS Test Signature",
@@ -56,10 +57,150 @@
   {
     "SHA256": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf6515d0f",
     "NombreDeteccion": "EICAR-Test-File",
-    "Descripcion": "Archivo est\u00E1ndar de prueba antivirus EICAR. No es malware real.",
+    "Descripcion": "Archivo estándar de prueba antivirus EICAR. No es malware real.",
     "Nivel": 2,
     "Familia": "EICAR",
     "Fuente": "EICAR Test Signature",
     "FechaAlta": "2026-09-06T03:06:39.6098572Z"
+  },
+
+  {
+    "SHA256": "36832e09f63c4fad1fbb69d9615657aa0e57b41f36d10ba8ba49a49386772d6a",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "974d163303f494a6e97a30fa15ea38fceb12241e3fbca9c7754b8d432b923da7",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "5f4b0aa22ce65b30fb232421673fad4c126970928207ade256d3bfee33dc3687",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "57ab710f4f52fb571cd0e1e9c2478c38717fe95fcc9f7c5ba2f3a796fc339b62",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra SHA-256 asociada públicamente con Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "9e6dbb539512eaeb0a3762fdf687ee2ef5a1fcbb854f4ab0a488fe2d245d6fbf",
+    "NombreDeteccion": "Gamarue",
+    "Descripcion": "Muestra SHA-256 asociada públicamente con Gamarue y catalogada como maliciosa.",
+    "Nivel": 2,
+    "Familia": "Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "120c9389731ad3819715a1a268c3cb14db938483d99ee92e6dd16074b30a4d41",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra PE SHA-256 asociada públicamente con Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "a94c9430f27ff2e1fa076ae872b50f9640f277a991209fe3a82aad1b09d11478",
+    "NombreDeteccion": "Andromeda/Gamarue",
+    "Descripcion": "Muestra SHA-256 asociada públicamente con Andromeda/Gamarue.",
+    "Nivel": 2,
+    "Familia": "Andromeda/Gamarue",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+
+  {
+    "SHA256": "e7164b0167aca952d7362950b4990548af9fb4a044d3910b76839c0c3d8f65aa",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "d1d3cf433e871d3aa6836ddb87578cbf494603f6f4a8918f36aea5816c6ce5e0",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra PE/DLL SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "dce920f5db90efecc7fb7a6b6399c80fc83e3f1251f160cd1295b6a4b67125d4",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra PE/DLL SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "aca7e809786e068bf306abb8dd0dd4d3325d8f9ffaca42bc6b5e506f681a0522",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "ac21a70e58a63e64246359af637b68b44e851f6d781e32dcb2ce06efc23d3ea8",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra PE/DLL SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+  {
+    "SHA256": "b82752e798eec15d7e5ff9bbef1e9eabb2ee862ea904b327f4322fa55a18cc3f",
+    "NombreDeteccion": "PlugX",
+    "Descripcion": "Muestra PE/DLL SHA-256 identificada públicamente como PlugX.",
+    "Nivel": 2,
+    "Familia": "PlugX",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+
+  {
+    "SHA256": "6a4ac7106f86dfc1195a2da7701764fa26a8b55ab1d4de3edbd78efca2dc5b2d",
+    "NombreDeteccion": "Conficker",
+    "Descripcion": "Muestra PE/DLL identificada públicamente como Conficker. La muestra presenta comportamiento relacionado con unidades conectadas y modificación de atributos de archivos.",
+    "Nivel": 2,
+    "Familia": "Conficker",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
+  },
+
+  {
+    "SHA256": "99ba3c531b5aa7e8bdf9658df962c4e3235249aaaa0a97fc5b8ce400094e6f99",
+    "NombreDeteccion": "Raspberry Robin",
+    "Descripcion": "Muestra SHA-256 identificada públicamente como Raspberry Robin.",
+    "Nivel": 2,
+    "Familia": "Raspberry Robin",
+    "Fuente": "MalwareBazaar",
+    "FechaAlta": "2026-09-06T00:00:00Z"
   }
+]
 ]
